@@ -1,0 +1,21 @@
+{
+  "name": "FinalProject",
+  "version": "0.0.0",
+  "homepage": "https://github.com/godfb/FinalProject",
+  "authors": [
+    "godfb <brandon.godfrey@autodesk.com>"
+  ],
+  "description": "will pls b kind",
+  "main": "index.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "will pls b kind",
+  "main": "server.js",
+  "scripts": {
+    "test": "testme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godfb/FinalProject.git"
+  },
+  "author": "Brandon Godfrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godfb/FinalProject/issues"
+  },
+  "homepage": "https://github.com/godfb/FinalProject#readme",
+  "dependencies": {
+    "giphy-api": "^1.0.8"
+  }
+}
